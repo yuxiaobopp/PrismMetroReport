@@ -1,0 +1,14 @@
+D:\PrismTest\ModuleA\bin\Debug\netcoreapp3.1\ModuleA.deps.json
+D:\PrismTest\ModuleA\bin\Debug\netcoreapp3.1\ModuleA.dll
+D:\PrismTest\ModuleA\bin\Debug\netcoreapp3.1\ModuleA.pdb
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.csproj.AssemblyReference.cache
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\Views\ViewA.g.cs
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA_MarkupCompile.cache
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA_MarkupCompile.lref
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\Views\ViewA.baml
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.g.resources
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.AssemblyInfoInputs.cache
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.AssemblyInfo.cs
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.csproj.CoreCompileInputs.cache
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.dll
+D:\PrismTest\ModuleA\obj\Debug\netcoreapp3.1\ModuleA.pdb

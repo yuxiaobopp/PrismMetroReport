@@ -1,0 +1,16 @@
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\bin\Debug\net5.0-windows\PrismMetroSample.Styling.deps.json
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\bin\Debug\net5.0-windows\PrismMetroSample.Styling.dll
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\bin\Debug\net5.0-windows\ref\PrismMetroSample.Styling.dll
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\bin\Debug\net5.0-windows\PrismMetroSample.Styling.pdb
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling.csproj.AssemblyReference.cache
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling_MarkupCompile.cache
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling_MarkupCompile.lref
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\Styles\ButtonStyle.baml
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling.g.resources
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling.AssemblyInfoInputs.cache
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling.AssemblyInfo.cs
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling.csproj.CoreCompileInputs.cache
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling.dll
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\ref\PrismMetroSample.Styling.dll
+C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.Styling\obj\Debug\net5.0-windows\PrismMetroSample.Styling.pdb

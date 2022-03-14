@@ -1,0 +1,14 @@
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1.csproj.AssemblyReference.cache
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\Views\ViewB.g.cs
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1_MarkupCompile.cache
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1_MarkupCompile.lref
+D:\PrismTest\Modules\bin\Debug\netcoreapp3.1\Modules\ModuleDirectoryTest1\netcoreapp3.1\ModuleDirectoryTest1.deps.json
+D:\PrismTest\Modules\bin\Debug\netcoreapp3.1\Modules\ModuleDirectoryTest1\netcoreapp3.1\ModuleDirectoryTest1.dll
+D:\PrismTest\Modules\bin\Debug\netcoreapp3.1\Modules\ModuleDirectoryTest1\netcoreapp3.1\ModuleDirectoryTest1.pdb
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\Views\ViewB.baml
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1.g.resources
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1.AssemblyInfoInputs.cache
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1.AssemblyInfo.cs
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1.csproj.CoreCompileInputs.cache
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1.dll
+D:\PrismTest\ModuleDirectoryTest1\obj\Debug\netcoreapp3.1\ModuleDirectoryTest1.pdb

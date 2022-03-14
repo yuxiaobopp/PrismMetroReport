@@ -1,0 +1,19 @@
+﻿<Window x:Class="PrismTest.View.ActivationDeactivationTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrismTest.View"
+        mc:Ignorable="d"
+        xmlns:prism="http://prismlibrary.com/"
+        Title="ActivationDeactivationTest" Height="450" Width="800">
+    <DockPanel LastChildFill="True">
+        <StackPanel>
+            <Button Content="Activate ViewA" Click="Button_Click"/>
+            <Button Content="Deactivate ViewA" Click="Button_Click_1"/>
+            <Button Content="Activate ViewB" Click="Button_Click_2"/>
+            <Button Content="Deactivate ViewB" Click="Button_Click_3"/>
+        </StackPanel>
+        <ContentControl prism:RegionManager.RegionName="ContentRegion" HorizontalAlignment="Center" VerticalAlignment="Center" />
+    </DockPanel>
+</Window>
