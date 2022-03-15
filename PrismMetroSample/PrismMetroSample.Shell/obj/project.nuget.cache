@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IjHASam/8bShJXhC0YTeXO326P7xIYrYfv+a4a9EktevtdVvqdRTgVmC5dkUDQ7UgnO6CH+DGkDTR3rWVDt/JQ==",
+  "dgSpecHash": "m/nMMrb3YXUQeHmb5dTqvEsDfA2YTjkuGAdSDnc3z+3YL4ZX+m8PUt72HiWpjt123fi+o2guixja6WF9GjaeGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj",
+  "projectFilePath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zzy\\.nuget\\packages\\controlzex\\4.2.0\\controlzex.4.2.0.nupkg.sha512",
     "C:\\Users\\zzy\\.nuget\\packages\\mahapps.metro\\2.0.0-alpha0660\\mahapps.metro.2.0.0-alpha0660.nupkg.sha512",

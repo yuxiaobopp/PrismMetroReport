@@ -1,0 +1,308 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>历史数据</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+</head>
+<style type="text/css">
+<!--
+.BUT {
+BORDER-LEFT: #0099cc 1px solid;/*左边框*/
+BORDER-RIGHT: #0099cc 1px solid;/*右边框*/
+BORDER-TOP: #0099cc 1px solid;/*上边框*/
+BORDER-BOTTOM: #0099cc 1px solid;/*下边框*/
+PADDING-LEFT: 2px;/*左间隙*/
+PADDING-RIGHT: 2px; /*右间隙*/
+PADDING-TOP: 2px;/*上间隙*/
+PADDING-BOTTOM: 2px;/*下间隙*/
+FONT-SIZE: 12px;/*字号*/
+CURSOR: hand;/*光标类型*/
+COLOR: #ffffff;/*字色*/
+FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#0099cc);/*滤镜*/
+}
+
+.ApprovalMsg{padding-top:10px;color:#0099FF;width:90%;font-size:9pt;font-family:"微软雅黑","宋体"}
+.ApprovalBottom{padding-top:10px;padding-right:5px;padding-bottom:10px;font-size:9pt;font-family:"微软雅黑","宋体";}
+.ApprovalBottom a{text-decoration: underline;font-family:"Myriad Pro","Myriad Web","Tahoma","Helvetica","Arial",sans-serif;}
+.ApprovalBottom a:hover{color: #FF0000;text-decoration: none;font-family:"Myriad Pro","Myriad Web","Tahoma","Helvetica","Arial",sans-serif;}
+.Approvaltable{border-collapse:collapse;border: 1px solid #e8e8e8;width:99%;font-size:9pt;font-family:"微软雅黑","宋体"}
+.Approvaltable td{border-collapse:collapse;border: 1px solid #e8e8e8;padding:4px;font-size:9pt;font-family:"微软雅黑","宋体"}
+.Approvaltable td.texttd{text-align:right;background:#f7f7f7;font-family:"微软雅黑","宋体"}
+
+.ApprovalToptable td{color:#999;font-size:9pt;font-family:"微软雅黑","宋体";}
+.ApprovalToptable a{color: #cc3300; text-decoration: underline;font-family:"微软雅黑","宋体"}
+
+#myTable{
+width:100%;border-collapse:collapse;margin:0em 0;
+}
+#myTable th,td{
+text-align:left;padding:0em;border:1px solid #fff;
+}
+th{
+background-color:#328aa4;color:#fff;
+}
+td{background:#e5f1f4;}
+tr.even td{background:#e5f1f4;}
+tr.odd td{background:#f8fbfc;}
+tr.over td{background:#bce774;}
+tr.out td{}
+link {
+	background-color: #006699;
+	padding: 0px;
+	height: 30px;
+	width: 30px;
+}
+
+DIV.digg {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN: 3px; PADDING-TOP: 3px; TEXT-ALIGN: right
+}
+DIV.digg A {
+	BORDER-RIGHT: #aaaadd 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaaadd 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; MARGIN: 2px; BORDER-LEFT: #aaaadd 1px solid; COLOR: #000099; PADDING-TOP: 2px; BORDER-BOTTOM: #aaaadd 1px solid; TEXT-DECORATION: none
+}
+DIV.digg A:hover {
+	BORDER-RIGHT: #000099 1px solid; BORDER-TOP: #000099 1px solid; BORDER-LEFT: #000099 1px solid; COLOR: #000; BORDER-BOTTOM: #000099 1px solid
+}
+DIV.digg A:active {
+	BORDER-RIGHT: #000099 1px solid; BORDER-TOP: #000099 1px solid; BORDER-LEFT: #000099 1px solid; COLOR: #000; BORDER-BOTTOM: #000099 1px solid
+}
+DIV.digg SPAN.current {
+	BORDER-RIGHT: #000099 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #000099 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; MARGIN: 2px; BORDER-LEFT: #000099 1px solid; COLOR: #fff; PADDING-TOP: 2px; BORDER-BOTTOM: #000099 1px solid; BACKGROUND-COLOR: #000099
+}
+DIV.digg SPAN.disabled {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #eee 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; MARGIN: 2px; BORDER-LEFT: #eee 1px solid; COLOR: #ddd; PADDING-TOP: 2px; BORDER-BOTTOM: #eee 1px solid
+}
+.STYLE1 {
+	font-size: xx-large;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0099FF;
+	FILTER:DropShadow(Color=#cccccc, OffX=4, OffY=4, Positive=1); 
+}
+html, body {
+ height: 100%;
+ width: 100%;
+}
+.white_content {
+	display: none;
+	position: absolute;
+	top: 193px;
+    left:433px;
+	width: 500px;
+	border: 12px solid #0099FF;
+	z-index:1002;
+	height: 130px;
+}
+.black_overlay {
+ display: none;
+ position: absolute;
+ top: 0%;
+ left: 0%;
+ width: 100%;
+ height: 100%;
+ background-color:#f5f5f5;
+ z-index:1001;
+ -moz-opacity: 0.8;
+ opacity:.80;
+ filter: alpha(opacity=90);
+}
+.close {
+ float:right;
+ clear:both;
+ width:100%;
+ text-align:right;
+ margin:0 0 6px 0
+}
+.close a {
+ color:#333;
+ text-decoration:none;
+ font-size:14px;
+ font-weight:700
+}
+.con {
+ text-indent:1.5pc;
+ line-height:21px
+}
+-->
+</style>
+<body onload="changeTableBg();">
+  <div align="center">
+  <table width="1389" border="1" class="Approvaltable" id="myTable">
+    <tr>
+      <td colspan="7" bgcolor="#ffffff" ><span class="STYLE1">[SYSTITLE]</span></td>
+    </tr>
+    <tr>
+      <td colspan="3" >
+	    <input name="Submit" type="submit" class="BUT" value="关闭本页" onclick="closeclk()" />
+        <input name="Submit2" type="submit" class="BUT" value="打印本页" onclick="printclk()" />
+        <input name="Submit32" type="button" class="BUT" value="查找记录" onclick="show('light')" />
+        <input name="Submit5" type="button" class="BUT"  value="下载数据" onclick="downloaddata()" />
+	  </td>
+      <td colspan="4"><div align="right">[PAGECOUNT]</div></td>
+    </tr>
+    <tr>
+      <td width="161" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备名称</strong></div></td>
+      <td width="180" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备类型</strong></div></td>
+      <td width="199" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备地址</strong></div></td>
+      <td width="522" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备位置</strong></div></td>
+      <td width="101" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>温度值</strong></div></td>
+      <td width="107" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>湿度值</strong></div></td>
+      <td width="193" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>记录时间</strong></div></td>
+    </tr>
+    [DATALIST]
+    <tr>
+      <td colspan="7" ><div align="center">[DATACOUNT]</div></td>
+    </tr>
+    <tr>
+      <td colspan="3" >
+	    <input name="Submit3" type="submit" class="BUT" value="关闭本页" onclick="closeclk()" />
+        <input name="Submit22" type="submit" class="BUT" value="打印本页" onclick="printclk()" />
+        <input name="Submit322" type="button" class="BUT" value="查找记录" onclick="show('light')" />
+        <input name="Submit52" type="button" class="BUT"  onclick="downloaddata()" value="下载数据" />      </td>
+      <td colspan="4" ><div align="right">[PAGECOUNT]</div></td>
+    </tr>
+
+    <tr>
+      <td colspan="7"><div align="center">[SYSINFO]</div></td>
+    </tr>
+  </table>
+</div>
+<div id="light" class="white_content" align="center" >
+      <div class="close"  style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='1')" ><a href="javascript:void(0)" onclick="hide('light')"> 关闭</a></div>
+
+      <div class="con" >
+        <div align="center"></div>
+        <table width="100%" height="100" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td>起始日期（格式：2012-01-01）</td>
+            <td><label>结束日期（格式：2012-02-01） </label></td>
+          </tr>
+          <tr>
+            <td><div align="center">
+              <input type="text" name="text" id="date1" value=[DATE1] />
+            </div></td>
+            <td><div align="center">
+              <input type="text" name="text" id="date2" value=[DATE2] />
+            </div></td>
+          </tr>
+          <tr>
+            <td colspan="2"><label>
+              <div align="center">
+                <input name="Submit4" type="button" class="BUT" value="开始搜索" onclick=finddata() />
+              </div>
+            </label></td>
+          </tr>
+        </table>
+      
+      </div>
+</div>
+<div id="fade" class="black_overlay"></div>
+<SCRIPT language="JavaScript">
+<!--
+function printclk(){
+window.print();
+}
+
+function closeclk() {
+
+window.close();
+
+}
+function show(tag){
+ var light=document.getElementById(tag);
+ var fade=document.getElementById('fade');
+ light.style.display='block';
+ fade.style.display='block';
+}
+function hide(tag){
+ var light=document.getElementById(tag);
+ var fade=document.getElementById('fade');
+ light.style.display='none';
+ fade.style.display='none';
+}
+
+function jumpurl(){
+
+// second=0;
+var d1=document.getElementById("date1").value;
+var d2=document.getElementById("date2").value;
+//alert(second);
+replaceParamVal("ref",second);
+
+}
+
+function replaceParamVal(paramName,replaceWith) {
+     var oUrl = this.location.href.toString();
+     if(oUrl.indexOf(paramName)==-1){
+         if (oUrl.indexOf('?')==-1) {
+             var nUrl = oUrl+'?'+paramName+'='+replaceWith;
+         } else {
+             var nUrl = oUrl+'&'+paramName+'='+replaceWith;
+         }
+     } else {
+         var re=eval('/('+ paramName+'=)([^&]*)/gi');
+         var nUrl = oUrl.replace(re,paramName+'='+replaceWith);
+     }
+     this.location = nUrl;
+ }
+ 
+ function finddata()
+ {
+    var dev=document.getElementById("devid").value;
+    var d1=document.getElementById("date1").value;
+    var d2=document.getElementById("date2").value;
+	if(d1.length==0 || d2.length==0)
+	{
+	    alert("搜索日期不能为空！");
+		return false;
+	   //d1="2012-01-01";
+	   //d2="2012-12-01";
+	}
+	var nUrl="history.htm?id=" + dev + "&t1=" + d1 + "&t2=" + d2 + "&Page=1";
+	this.location = nUrl;
+ }
+  function downloaddata()
+ {
+    var dev=document.getElementById("devid").value;
+    var d1=document.getElementById("date1").value;
+    var d2=document.getElementById("date2").value;
+	if(d1.length==0 || d2.length==0)
+	{
+	   d1="2012-01-01";
+	   d2="2012-12-01";
+	}
+	var nUrl=d1 + '_' + d2 + ".xls?id=" + dev + "&t1=" + d1 + "&t2=" + d2 + "&Page=1";
+	this.location = nUrl;
+ }
+function changeTableBg()
+{
+var changeTr=document.getElementById("myTable").getElementsByTagName("tr");
+   for(i=3;i<changeTr.length-1;i++)
+   {
+      changeTr[i].className=(i%2>0)?"even":"odd";
+   changeTr[i].temp=changeTr[i].className;
+   changeTr[i].onmouseover=function(){
+              this.className='over';
+   }
+   changeTr[i].onmouseout=function(){
+              this.className=this.temp;
+   }
+   }
+}
+//-->
+</SCRIPT>
+
+
+<input type="hidden" name="hiddenField"  value="[DEVID]" id="devid" />
+</body>
+</html>

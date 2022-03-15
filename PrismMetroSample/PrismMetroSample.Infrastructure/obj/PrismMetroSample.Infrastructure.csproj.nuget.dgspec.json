@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {}
+    "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
+    "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj",
+        "projectUniqueName": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj",
         "projectName": "PrismMetroSample.Infrastructure",
-        "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj",
+        "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\zzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\obj\\",
+        "outputPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

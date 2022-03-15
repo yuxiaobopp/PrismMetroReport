@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.MedicineModule\obj\Debug\net5.0-windows\
+D:\PrismMetroReport\PrismMetroSample\PrismMetroSample.MedicineModule\obj\Debug\net5.0-windows\
 PrismMetroSample.MedicineModule
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 3-1282167470
 
 7-661358611
-202943057232
+2021207000334
 Views\MedicineMainContent.xaml;Views\SearchMedicine.xaml;Views\ShowSearchPatient.xaml;
 
 False

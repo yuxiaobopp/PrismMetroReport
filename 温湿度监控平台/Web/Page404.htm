@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=gb2312">
+<title>Trotest温湿度监控系统</title>
+<style type="text/css">
+body{
+background-color:#fff;
+margin:0px;
+padding:0px;
+}
+.www_zzjs_net{
+width:400px;
+margin:70px auto auto;
+background-color:#555555;
+border:1px solid #FFF;
+font-size:13px;
+}
+.zzjs_net{
+background-color:#345454;
+background-color:#555555;
+height:20px;
+line-height:20px;
+color:#F00;
+font-weight:700;
+text-align:center;
+}
+._zzjs_net{
+height:55px;
+background-color:#534ff;
+color:#FFF;
+text-align:center;
+padding:10px 0px;
+}
+._zzjs_net a{
+color:#00F;
+text-decoration:none;
+}
+._zzjs_net a:hover{
+color:#00F;
+text-decoration:underline;
+}
+._zzjs_net p a{
+margin:0px 5px;
+color:#F00;
+font-weight:700;
+}
+p{
+margin:0px;
+line-height:22px;
+}
+.c4{
+background-color:#000;
+padding-bottom:10px;
+}
+</style>
+</head>
+<body>
+<div class="www_zzjs_net">
+  <div class="zzjs_net">提示信息</div>
+    <div class="_zzjs_net">
+     <p>抱歉，您所查找的页面不存在，可能已被删除或您输错了网址！</p>
+        <p>点击这里返回首页：<a href="index.htm">温湿度系统</a></p>
+    </div>
+    <div class="zzjs_net">
+     <table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+       <tr>
+         <form name="loading">
+         <td align="center">
+         <p><font color="gray">系统将自动跳转到首页，请稍候……</font></p>
+         <p>
+         <input type="text" name="chart" size="47" style="font-family:Arial;font-weight:bolder;color:gray;background-color:white;padding:0px;border-style:none;">
+         <br> 
+         <input type="text" name="percent" size="47" style="font-family:Arial;color:gray;text-align:center;border-width:medium;border-style:none;margin-top:5px;">
+         <script language="javascript">
+         var bar=0
+         var line="||"
+         var amount="||"
+         count()
+         function count(){
+         bar=bar+2
+         amount=amount+line
+         document.loading.chart.value=amount
+         document.loading.percent.value=bar+"%"
+         if (bar<99){
+         setTimeout("count()",90);}
+         else{
+         window.location = "/web/index.htm";}
+         }
+         </script>
+         </p>
+         </td>
+      </form>
+      </tr>
+    </table>
+  </div>
+</div>
+</body>
+</html>

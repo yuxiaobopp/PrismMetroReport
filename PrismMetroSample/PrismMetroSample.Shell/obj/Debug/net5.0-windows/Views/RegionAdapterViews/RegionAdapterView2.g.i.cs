@@ -53,8 +53,8 @@ namespace PrismMetroSample.Shell.Views.RegionAdapterViews {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PrismMetroSample.Shell;component/views/regionadapterviews/regionadapterview2.xam" +
-                    "l", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PrismMetroSample.Shell;V1.0.0.0;component/views/regionadapterviews/regionadapter" +
+                    "view2.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\RegionAdapterViews\RegionAdapterView2.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

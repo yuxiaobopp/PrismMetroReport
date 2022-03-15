@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="iso-8859-1"?><SUF70UninstallData>
+<DataFilePath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ÎÂÊª¶È¼à¿ØÆ½Ì¨V2.7</CPRegKey>
+<EXELocation>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\uninstall.exe</EXELocation>
+<AppShortcutFolderPath>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ÎÂÊª¶È¼à¿ØÆ½Ì¨</AppShortcutFolderPath>
+<UninstallReverseOrder>1</UninstallReverseOrder>
+<UninstallFiles>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Component\dotNetFx40_Full_x86_x64.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Component\dotNetFx40LP_Full_x86_x64zh-Hans.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Component\SSCERuntime_x64-ENU.msi</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Component\SSCERuntime_x86-ENU.msi</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\baidu.htm</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\EasyMonitorËµÃ÷Êé.pdf</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\car.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\EasyMonitor.exe.config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\EasyMonitor.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\UpdateSystem.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\DataCentre.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\EasyMonitor.XmlSerializers.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\gspInterface.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\itextsharp.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Module.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\MSVCRTD.DLL</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Newtonsoft.Json.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\RemoteServer.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\SMS.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\sqlceme30.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\System.Data.SqlServerCe.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\ThoughtWorks.QRCode.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Tools.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\usb.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\ZedGraph.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\DevInfo.htm</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\History.htm</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Index.htm</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Page404.htm</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Image\alarm.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Image\alarm.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Image\Dev.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Image\logo.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Image\online.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Image\outline.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Image\process.png</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM1.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM2.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM3.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM4.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM5.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM6.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM7.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM8.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ALARM9.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BASE.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BEEP1.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BEEP2.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BEEP3.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BEOP.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BLEEP1_S.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BUZZ1.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BUZZ2.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BUZZ3.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BUZZ4.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\BUZZ5.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\CHOOCHOO.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\ENGACK.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\FERYHORN.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\HONK.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\HOOK1.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\LUNADPLY.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\OBNOWHS1.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\SIREN1.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\SIREN2.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\SIREN3.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\SIREN4.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\STANDIN.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\STEAMBLO.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\TRAINWST.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound\UNIT.WAV</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\UpdateSystem.exe.config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Database.sdf</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\DataBase\SQLCE\Database.sdf</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\DataBase\ACCESS\Data.mdb</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\DataBase\SQL_Script\ÎÂÊª¶È¼à¿ØÏµÍ³Êý¾Ý¿âÉú³É½Å±¾.sql</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Component\ReportViewer.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Component\ReportViewerLP.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\HttpUtils.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Users\zzy\Desktop\ÎÂÊª¶È¼à¿ØÆ½Ì¨.lnk</Filename>
+<Filename>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ÎÂÊª¶È¼à¿ØÆ½Ì¨\ÎÂÊª¶È¼à¿ØÆ½Ì¨.lnk</Filename>
+<Filename>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ÎÂÊª¶È¼à¿ØÆ½Ì¨\¼ì²é¸üÐÂ.lnk</Filename>
+<Filename>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Ð¶ÔØÎÂÊª¶È¼à¿ØÆ½Ì¨.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Uninstall\IRIMG1.JPG</Filename>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Uninstall\IRIMG2.JPG</Filename>
+<Filename>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Uninstall\IRIMG3.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>D:\Program Files</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Uninstall</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Component</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Web\Image</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\Sound</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\DataBase</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\DataBase\SQLCE</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\DataBase\ACCESS</FolderPath>
+<FolderPath>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨\DataBase\SQL_Script</FolderPath>
+<FolderPath>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ÎÂÊª¶È¼à¿ØÆ½Ì¨</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>ÎÂÊª¶È¼à¿ØÆ½Ì¨</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>¹ãÖÝ°ÂËÉµç×ÓÓÐÏÞ¹«Ë¾</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>V2.7</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>Copyright ?2014 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value>www.aosong.com</Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% Setup</Value>
+</Var>
+<Var>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Uninstaller</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>D:\Program Files\ÎÂÊª¶È¼à¿ØÆ½Ì¨</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>%ProductName%</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Users\zzy\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolderCommon%</Name>
+<Value>C:\ProgramData</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Users\zzy\Desktop</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Users\Public\Desktop</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\Windows\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>C:\Users\zzy\Documents</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp</Value>
+</Var>
+<Var>
+<Name>%CommonDocumentsFolder%</Name>
+<Value>C:\Users\Public\Documents</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolder%</Name>
+<Value>C:\Users\zzy\Music</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolderCommon%</Name>
+<Value>C:\Users\Public\Music</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolder%</Name>
+<Value>C:\Users\zzy\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolderCommon%</Name>
+<Value>C:\Users\Public\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolder%</Name>
+<Value>C:\Users\zzy\Videos</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolderCommon%</Name>
+<Value>C:\Users\Public\Videos</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder64%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder64%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files (x86)</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files (x86)\Common Files</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\WINDOWS\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\WINDOWS</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\Users\zzy\AppData\Local\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\Users\zzy\AppData\Local\Temp\_ir_sf_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>zzy</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>D:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>C:\Program Files (x86)\Common Files\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%LaunchUserName%</Name>
+<Value>zzy</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDomain%</Name>
+<Value>DESKTOP-2MF7BGK</Value>
+</Var>
+<Var>
+<Name>%LaunchUserApplicationDataFolder%</Name>
+<Value>C:\Users\zzy\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDesktopFolder%</Name>
+<Value>C:\Users\zzy\Desktop</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyDocumentsFolder%</Name>
+<Value>C:\Users\zzy\Documents</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartProgramsFolder%</Name>
+<Value>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartFolder%</Name>
+<Value>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartupFolder%</Name>
+<Value>C:\Users\zzy\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyMusicFolder%</Name>
+<Value>C:\Users\zzy\Music</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyPicturesFolder%</Name>
+<Value>C:\Users\zzy\Pictures</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyVideosFolder%</Name>
+<Value>C:\Users\zzy\Videos</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>C:\Users\zzy\Downloads\easymonitor_setupv2_7_6bulid180920(1)\EasyMonitor_SetupV2.7.6Bulid180920.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>C:\Users\zzy\Downloads\easymonitor_setupv2_7_6bulid180920(1)</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>283.62 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>94.7 MB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>

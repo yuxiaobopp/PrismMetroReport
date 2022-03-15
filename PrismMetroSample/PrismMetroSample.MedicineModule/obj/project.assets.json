@@ -1094,11 +1094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
+      "projectUniqueName": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
       "projectName": "PrismMetroSample.MedicineModule",
-      "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
+      "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
       "packagesPath": "C:\\Users\\zzy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\obj\\",
+      "outputPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1121,8 +1121,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj"
+            "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
+              "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj"
             }
           }
         }

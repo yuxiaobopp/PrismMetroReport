@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = PrismMetroSample.MedicineModule
-build_property.ProjectDir = C:\Users\zzy\Downloads\PrismMetroSample-NET5-Prism8.0\PrismMetroSample-NET5-Prism8.0\PrismMetroSample\PrismMetroSample\PrismMetroSample.MedicineModule\
+build_property.ProjectDir = D:\PrismMetroReport\PrismMetroSample\PrismMetroSample.MedicineModule\

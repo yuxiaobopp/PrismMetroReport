@@ -82,7 +82,7 @@ namespace PrismMetroSample.Shell.Views.Login {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PrismMetroSample.Shell;component/views/login/createaccount.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PrismMetroSample.Shell;V1.0.0.0;component/views/login/createaccount.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Login\CreateAccount.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

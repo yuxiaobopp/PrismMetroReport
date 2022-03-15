@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj": {}
+    "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
+    "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj",
+        "projectUniqueName": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj",
         "projectName": "PrismMetroSample.Infrastructure",
-        "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj",
+        "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\zzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\obj\\",
+        "outputPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj": {
+    "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
+        "projectUniqueName": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
         "projectName": "PrismMetroSample.MedicineModule",
-        "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
+        "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
         "packagesPath": "C:\\Users\\zzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\obj\\",
+        "outputPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -111,8 +111,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj"
+              "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
+                "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj": {
+    "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj",
+        "projectUniqueName": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj",
         "projectName": "PrismMetroSample.PatientModule",
-        "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj",
+        "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj",
         "packagesPath": "C:\\Users\\zzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.PatientModule\\obj\\",
+        "outputPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.PatientModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -178,8 +178,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj"
+              "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
+                "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj": {
+    "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj",
+        "projectUniqueName": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj",
         "projectName": "PrismMetroSample.Shell",
-        "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj",
+        "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Shell\\PrismMetroSample.Shell.csproj",
         "packagesPath": "C:\\Users\\zzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Shell\\obj\\",
+        "outputPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Shell\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -245,17 +245,17 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj"
+              "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj": {
+                "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Infrastructure\\PrismMetroSample.Infrastructure.csproj"
               },
-              "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj": {
-                "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj"
+              "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj": {
+                "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj"
               },
-              "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj": {
-                "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj"
+              "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj": {
+                "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.PatientModule\\PrismMetroSample.PatientModule.csproj"
               },
-              "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj": {
-                "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj"
+              "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj": {
+                "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj"
               }
             }
           }
@@ -297,14 +297,14 @@
         }
       }
     },
-    "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj": {
+    "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj",
+        "projectUniqueName": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj",
         "projectName": "PrismMetroSample.Styling",
-        "projectPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj",
+        "projectPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Styling\\PrismMetroSample.Styling.csproj",
         "packagesPath": "C:\\Users\\zzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.Styling\\obj\\",
+        "outputPath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.Styling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

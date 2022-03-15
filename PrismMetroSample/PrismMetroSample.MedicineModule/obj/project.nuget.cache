@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+WjoKOCMXWQE44vN0TA5ENc1G5IPNJxjCBK3LyhuegJuEsHwJ7OtBki63AutECZlYHwR2A2Z9oForrQbjcpcA==",
+  "dgSpecHash": "+KnQWrXUuzZi2tkd4dMbuApGXgI3nUpGqiq4tzFw3v+vNTWu9Ld3SZ14ajiQTq1ND5dvy/ZB8I01j+WWO5yD9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zzy\\Downloads\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample-NET5-Prism8.0\\PrismMetroSample\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
+  "projectFilePath": "D:\\PrismMetroReport\\PrismMetroSample\\PrismMetroSample.MedicineModule\\PrismMetroSample.MedicineModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zzy\\.nuget\\packages\\controlzex\\4.2.0\\controlzex.4.2.0.nupkg.sha512",
     "C:\\Users\\zzy\\.nuget\\packages\\mahapps.metro\\2.0.0-alpha0660\\mahapps.metro.2.0.0-alpha0660.nupkg.sha512",

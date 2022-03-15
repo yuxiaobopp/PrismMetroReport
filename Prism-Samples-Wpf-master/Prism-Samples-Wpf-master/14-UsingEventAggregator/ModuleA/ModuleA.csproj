@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>ModuleA</AssemblyName>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.Wpf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UsingEventAggregator.Core\UsingEventAggregator.Core.csproj" />
+  </ItemGroup>
+</Project>

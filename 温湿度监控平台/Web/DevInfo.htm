@@ -1,0 +1,163 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>设备信息</title>
+</head>
+<style type="text/css">
+<!--
+.ApprovalMsg{padding-top:10px;color:#0099FF;width:60%;font-size:9pt;font-family:"微软雅黑","宋体"}
+.ApprovalBottom{padding-top:10px;padding-right:5px;padding-bottom:10px;font-size:9pt;font-family:"微软雅黑","宋体";}
+.ApprovalBottom a{text-decoration: underline;font-family:"Myriad Pro","Myriad Web","Tahoma","Helvetica","Arial",sans-serif;}
+.ApprovalBottom a:hover{color: #FF0000;text-decoration: none;font-family:"Myriad Pro","Myriad Web","Tahoma","Helvetica","Arial",sans-serif;}
+.Approvaltable{border-collapse:collapse;border: 1px solid #e8e8e8;width:60%;font-size:9pt;font-family:"微软雅黑","宋体"}
+.Approvaltable td{border-collapse:collapse;border: 1px solid #e8e8e8;padding:4px;font-size:9pt;font-family:"微软雅黑","宋体"}
+.Approvaltable td.texttd{text-align:right;background:#f7f7f7;font-family:"微软雅黑","宋体"}
+
+-->
+#myTable{
+width:60%;border-collapse:collapse;margin:1em 0;
+}
+#myTable th,td{
+text-align:left;padding:.5em;border:1px solid #fff;
+}
+th{
+background-color:#328aa4;color:#fff;
+}
+td{background:#e5f1f4;}
+tr.even td{background:#e5f1f4;}
+tr.odd td{background:#f8fbfc;}
+tr.over td{background:#bce774;}
+tr.out td{}
+.STYLE1 {font-size: x-large}
+.STYLE2 {font-size: xx-large}
+
+.BUT {
+BORDER-LEFT: #0099cc 1px solid;/*左边框*/
+BORDER-RIGHT: #0099cc 1px solid;/*右边框*/
+BORDER-TOP: #0099cc 1px solid;/*上边框*/
+BORDER-BOTTOM: #0099cc 1px solid;/*下边框*/
+PADDING-LEFT: 2px;/*左间隙*/
+PADDING-RIGHT: 2px; /*右间隙*/
+PADDING-TOP: 2px;/*上间隙*/
+PADDING-BOTTOM: 2px;/*下间隙*/
+FONT-SIZE: 12px;/*字号*/
+CURSOR: hand;/*光标类型*/
+COLOR: #ffffff;/*字色*/
+FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#0099cc);/*滤镜*/
+}
+
+</style>
+<SCRIPT language="JavaScript">
+
+<!--
+function printclk(){
+window.print();
+}
+
+function closeclk() {
+
+window.close();
+
+}
+
+//-->
+
+</SCRIPT>
+<body onload="changeTableBg();">
+<table width="50%" height="558" border="1" align="center" class="Approvaltable" id="myTable">
+  <tr class="LineDiv">
+    <td colspan="4" align="center" valign="middle"  style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='1')"><div align="center" class="STYLE1">
+      <div align="left"><img src="image/process.png" width="33" height="34" align="absmiddle" /><span class="STYLE2">设备信息</span></div>
+    </div></td>
+  </tr>
+  <tr>
+    <td width="30%">设备名称</td>
+    <td colspan="3">[DEVNAME]</td>
+  </tr>
+  <tr>
+    <td>设备类型</td>
+    <td colspan="3">[DEVTYPE]</td>
+  </tr>
+  <tr>
+    <td>使用状态</td>
+    <td colspan="3">[DEVSTATIC]</td>
+  </tr>
+  <tr>
+    <td>设备地址</td>
+    <td colspan="3">[DEVADDRESS]</td>
+  </tr>
+  <tr>
+    <td>设备位置</td>
+    <td colspan="3">[DEVLOCATION]</td>
+  </tr>
+  <tr>
+    <td colspan="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4">设备参数</td>
+  </tr>
+  <tr>
+    <td>温度报警上限</td>
+    <td width="25%">[TALARMUP]</td>
+    <td width="15%">开关状态</td>
+    <td width="30%">[TALARMUPEN]</td>
+  </tr>
+  <tr>
+    <td>温度报警下限</td>
+    <td>[TALARMBUT]</td>
+    <td>开关状态</td>
+    <td>[TALARNBUTEN]</td>
+  </tr>
+  <tr>
+    <td>湿度报警上限</td>
+    <td>[HALARMUP]</td>
+    <td>开关状态</td>
+    <td>[HALARMUPEN]</td>
+  </tr>
+  <tr>
+    <td>湿度报警下限</td>
+    <td>[HALARMBUT]</td>
+    <td>开关状态</td>
+    <td>[HALARMBUTEN]</td>
+  </tr>
+ 
+  <tr>
+    <td>延时输出时间（分钟）</td>
+    <td>[DELAYOUT]</td>
+    <td>蜂鸣器开关</td>
+    <td>[BUZZEREN]</td>
+  </tr>
+
+  <tr>
+    <td colspan="4"><label>
+      <div align="center">
+        <input name="Submit" type="submit" class="BUT" value="关闭本页" onclick=closeclk() />
+         <input name="Submit2" type="submit" class="BUT" value="打印本页" onclick=printclk() />
+      </div>
+    </label></td>
+  </tr>
+</table>
+<div align="center">
+  <script type="text/javascript">
+<!--
+function changeTableBg()
+{
+var changeTr=document.getElementById("myTable").getElementsByTagName("tr");
+   for(i=1;i<changeTr.length-1;i++)
+   {
+      changeTr[i].className=(i%2>0)?"even":"odd";
+   changeTr[i].temp=changeTr[i].className;
+   changeTr[i].onmouseover=function(){
+              this.className='over';
+   }
+   changeTr[i].onmouseout=function(){
+              this.className=this.temp;
+   }
+   }
+}
+//-->
+</script>
+</div>
+</body>
+</html>

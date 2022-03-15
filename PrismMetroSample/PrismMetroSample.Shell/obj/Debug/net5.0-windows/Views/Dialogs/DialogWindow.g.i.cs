@@ -60,7 +60,7 @@ namespace PrismMetroSample.Shell.Views.Dialogs {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PrismMetroSample.Shell;component/views/dialogs/dialogwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PrismMetroSample.Shell;V1.0.0.0;component/views/dialogs/dialogwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Dialogs\DialogWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

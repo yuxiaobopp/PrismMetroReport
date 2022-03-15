@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" /><style type="text/css">
+<!--
+body {
+	background-color: #CCCCCC;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+[REFRESH]
+
+<title>温湿度监控系统V1.0</title>
+</head>
+<style type="text/css">
+<!--
+.ApprovalBottom{padding-top:10px;padding-right:5px;padding-bottom:10px;font-size:9pt;font-family:"微软雅黑","宋体";}
+.ApprovalBottom a{text-decoration: underline;font-family:"Myriad Pro","Myriad Web","Tahoma","Helvetica","Arial",sans-serif;}
+.ApprovalBottom a:hover{color: #FF0000;text-decoration: none;font-family:"Myriad Pro","Myriad Web","Tahoma","Helvetica","Arial",sans-serif;}
+.Approvaltable{border-collapse:collapse;border: 1px solid #e8e8e8;width:99%;font-size:9pt;font-family:"微软雅黑","宋体"}
+.Approvaltable td{border-collapse:collapse;border: 1px solid #e8e8e8;padding:4px;font-size:9pt;font-family:"微软雅黑","宋体"}
+.Approvaltable td.texttd{text-align:right;background:#f7f7f7;font-family:"微软雅黑","宋体"}
+
+.ApprovalToptable td{color:#999;font-size:9pt;font-family:"微软雅黑","宋体";}
+.ApprovalToptable a{color: #cc3300; text-decoration: underline;font-family:"微软雅黑","宋体"}
+-->
+#myTable{
+width:100%;border-collapse:collapse;margin:0em 0;
+}
+#myTable th,td{
+text-align:left;padding:.0em;border:1px solid #fff;
+}
+th{
+background-color:#328aa4;color:#fff;
+}
+td{background:#e5f1f4;}
+tr.even td{background:#e5f1f4;}
+tr.odd td{background:#f8fbfc;}
+tr.over td{background:#bce774;}
+tr.out td{}
+.STYLE3 {
+	font-size: xx-large;
+	font-style: italic;
+	color: #3399CC;
+	font-weight: bold;
+}
+.BUT {
+BORDER-LEFT: #0099cc 1px solid;/*左边框*/
+BORDER-RIGHT: #0099cc 1px solid;/*右边框*/
+BORDER-TOP: #0099cc 1px solid;/*上边框*/
+BORDER-BOTTOM: #0099cc 1px solid;/*下边框*/
+PADDING-LEFT: 2px;/*左间隙*/
+PADDING-RIGHT: 2px; /*右间隙*/
+PADDING-TOP: 2px;/*上间隙*/
+PADDING-BOTTOM: 2px;/*下间隙*/
+FONT-SIZE: 12px;/*字号*/
+CURSOR: hand;/*光标类型*/
+COLOR: #ffffff;/*字色*/
+FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#0099cc);/*滤镜*/
+}
+</style>
+<SCRIPT language="JavaScript">
+<!--
+function printclk(){
+window.print();
+}
+
+function closeclk() {
+
+window.close();
+}
+function jumpurl(){
+
+// second=0;
+var second=document.getElementById("reftime").value;
+//alert(second);
+replaceParamVal("ref",second);
+
+}
+
+function replaceParamVal(paramName,replaceWith) {
+     var oUrl = this.location.href.toString();
+     if(oUrl.indexOf(paramName)==-1){
+         if (oUrl.indexOf('?')==-1) {
+             var nUrl = oUrl+'?'+paramName+'='+replaceWith;
+         } else {
+             var nUrl = oUrl+'&'+paramName+'='+replaceWith;
+         }
+     } else {
+         var re=eval('/('+ paramName+'=)([^&]*)/gi');
+         var nUrl = oUrl.replace(re,paramName+'='+replaceWith);
+     }
+     this.location = nUrl;
+ }
+
+//-->
+</SCRIPT>
+<body onload="changeTableBg();">
+  <div align="center">
+  <table width="1389" border="1" class="Approvaltable" id="myTable">
+    <tr>
+      <td colspan="8" bgcolor="#ffffff" ><span class="STYLE3">[SYSTITLE]</span></td>
+    </tr>
+    <tr>
+      <td width="133" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备名称</strong></div></td>
+      <td width="174" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备类型</strong></div></td>
+      <td width="193" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备地址</strong></div></td>
+      <td width="453" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备位置</strong></div></td>
+      <td width="101" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>温度值</strong></div></td>
+      <td width="101" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>湿度值</strong></div></td>
+      <td width="139" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>设备状态</strong></div></td>
+      <td width="143" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#0099cc', gradientType='0')" ><div align="center"><strong>记录</strong></div></td>
+    </tr>
+	[DEVLIST]
+    <tr>
+      <td colspan="4" align="center" valign="middle"><input name="Submit" type="button" class="BUT" onclick=printclk() value="打印本页" />
+        自动刷新时间（单位：秒 最小5秒）
+          <label>
+        <input name="textfield" type="text" class="ApprovalToptable" id="reftime" maxlength="2"  width="50" value=[REFTIME] />
+        <input name="Submit2" type="button" class="BUT"  onclick=jumpurl() value="确定" />
+        </label></td>
+      <td colspan="4">[DEVCOUNT]</td>
+    </tr>
+    <tr>
+      <td colspan="8"><label></label>        <div align="center">[SYSINFO]</div></td>
+    </tr>
+  </table>
+</div>
+<script type="text/javascript">
+<!--
+function changeTableBg()
+{
+var changeTr=document.getElementById("myTable").getElementsByTagName("tr");
+   for(i=1;i<changeTr.length-1;i++)
+   {
+      changeTr[i].className=(i%2>0)?"even":"odd";
+   changeTr[i].temp=changeTr[i].className;
+   changeTr[i].onmouseover=function(){
+              this.className='over';
+   }
+   changeTr[i].onmouseout=function(){
+              this.className=this.temp;
+   }
+   }
+}
+//-->
+</script>
+<label></label>
+</body>
+</html>
