@@ -71,19 +71,19 @@ namespace WpfAppOxyPlot.Services
                 _chartRepository.AddCmbPortName($"COM{i}");
             }
 
-            string[] bauds = {"300","600","1200","2400","4800","9600","14400","19200","38400","56000"};
+            string[] bauds = { "300", "600", "1200", "2400", "4800", "9600", "14400", "19200", "38400", "56000" };
             foreach (var item in bauds)
             {
                 _chartRepository.AddCmbBaud(item);
             }
 
-            string[] parity = { "奇", "偶", "无"};
+            string[] parity = { "奇", "偶", "无" };
             foreach (var item in parity)
             {
                 _chartRepository.AddCmbParity(item);
             }
 
-            string[] databits = { "7", "8"};
+            string[] databits = { "7", "8" };
             foreach (var item in databits)
             {
                 _chartRepository.AddCmbDataBits(item);
@@ -94,6 +94,13 @@ namespace WpfAppOxyPlot.Services
             {
                 _chartRepository.AddCmbStopBits(item);
             }
+
+            string[] funs = { "01 Read Coils", "02 Read DisCrete Inputs", "03 Read Holding Registers", "04 Read Input Registers", "05 Write Single Coil", "06 Write Single Registers", "0F Write Multiple Coils", "10 Write Multiple Registers" };
+            foreach (var item in funs)
+            {
+                _chartRepository.AddModbusRtuFun(item);
+            }
+
         }
 
         #endregion

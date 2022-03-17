@@ -26,11 +26,13 @@ namespace WpfAppOxyPlot.Models
         public IReadOnlyList<int> ColumnCountList => GetColumnCountList().ToList();
 
 
+        private readonly List<string> _cmModbusRtuFunList = new List<string>(8);
         private readonly List<string> _cmbPortNameList = new List<string>(10);
         private readonly List<string> _cmbBaudList = new List<string>(10);
         private readonly List<string> _cmbParityList = new List<string>(10);
         private readonly List<string> _cmbDataBitsList = new List<string>(10);
         private readonly List<string> _cmbStopBitsList = new List<string>(10);
+        public IReadOnlyList<string> CmbModbusRtuFunList => _cmModbusRtuFunList;
         public IReadOnlyList<string> CmbPortNameList => _cmbPortNameList;
         public IReadOnlyList<string> CmbBaudList => _cmbBaudList;
         public IReadOnlyList<string> CmbParityList => _cmbParityList;
@@ -79,6 +81,12 @@ namespace WpfAppOxyPlot.Models
                                 _columnCountDictionary[index]
                                 : 0;
             }
+        }
+
+        public void AddModbusRtuFun(string value)
+        {
+            _cmModbusRtuFunList.Add(value);
+            OnPropertyChanged(nameof(CmbModbusRtuFunList));
         }
 
         public void AddCmbPortName(string value)

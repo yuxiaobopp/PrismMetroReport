@@ -25,5 +25,7 @@ namespace WpfAppOxyPlot.ViewModels
         public IReadOnlyList<string> CmbDataBitsList { get; }
 
         public IReadOnlyList<string> CmbStopBitsList { get; }
+
+        public IReadOnlyList<string> CmbModbusRtuFunList { get; }
     }
 }

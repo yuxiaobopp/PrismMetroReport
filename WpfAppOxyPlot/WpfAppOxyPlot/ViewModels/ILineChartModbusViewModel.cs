@@ -6,6 +6,11 @@ namespace WpfAppOxyPlot.ViewModels
     public interface ILineChartModbusViewModel
     {
         IReadOnlyList<DataPoint> RtuDataList { get; }
+
+        /// <summary>
+        /// 选择功能码
+        /// </summary>
+        IReadOnlyList<string> CmbModbusRtuFunList { get; }
         /// <summary>
         /// 选择串口
         /// </summary>

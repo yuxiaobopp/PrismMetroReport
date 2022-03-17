@@ -20,7 +20,8 @@ namespace WpfAppOxyPlot.ViewModels
 
         private void ChartRepositoryPropertyChanged(object sender, PropertyChangedEventArgs e)
         {
-            if (!nameof(IChartRepository.LineRtuDataList).Equals(e.PropertyName)||
+            if (!nameof(IChartRepository.CmbModbusRtuFunList).Equals(e.PropertyName) ||
+                !nameof(IChartRepository.LineRtuDataList).Equals(e.PropertyName)||
                 !nameof(IChartRepository.CmbParityList).Equals(e.PropertyName)||
                 !nameof(IChartRepository.CmbBaudList).Equals(e.PropertyName)||
                 !nameof(IChartRepository.CmbDataBitsList).Equals(e.PropertyName) ||
@@ -35,6 +36,7 @@ namespace WpfAppOxyPlot.ViewModels
         public IReadOnlyList<DataPoint> RtuDataList =>
             _chartRepository.LineRtuDataList.Select((value, index) => new DataPoint(index, value)).ToList();
 
+        public IReadOnlyList<string> CmbModbusRtuFunList => _chartRepository.CmbModbusRtuFunList;
         public IReadOnlyList<string> CmbPortNameList => _chartRepository.CmbPortNameList;
 
         public IReadOnlyList<string> CmbBaudList => _chartRepository.CmbBaudList;

@@ -14,6 +14,13 @@ namespace WpfAppOxyPlot.Models
         IReadOnlyList<int> ColumnCountList { get; }
 
         #region 串口工具属性
+
+
+        /// <summary>
+        /// 选择功能码
+        /// </summary>
+        IReadOnlyList<string> CmbModbusRtuFunList { get; }
+
         /// <summary>
         /// 选择串口
         /// </summary>
@@ -68,12 +75,22 @@ namespace WpfAppOxyPlot.Models
         /// </summary>
         /// <param name="value"></param>
         void AddCmbStopBits(string value);
-
+        /// <summary>
+        /// 添加功能码
+        /// </summary>
+        /// <param name="value"></param>
+        void AddModbusRtuFun(string value);
+        /// <summary>
+        /// 添加数据变化值
+        /// </summary>
+        /// <param name="newValue"></param>
+        void AddLineRtuData(int newValue);
         #endregion
 
 
         void AddLineCount(int newValue);
-        void AddLineRtuData(int newValue);
+
+      
         void AddColumnCount(int index, int newValue);
     }
 }

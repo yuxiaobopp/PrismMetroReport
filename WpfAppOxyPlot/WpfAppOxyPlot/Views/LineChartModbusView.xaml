@@ -11,30 +11,38 @@
         <Grid.ColumnDefinitions>
             <!--定义Grid的列，定义3列-->
 
-            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="80"/>
             <ColumnDefinition />
 
         </Grid.ColumnDefinitions>
 
         <Grid.RowDefinitions>
             <!--定义Grid的行，定义3行-->
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
-            <RowDefinition Height="50"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
             <RowDefinition Height="*"/>
 
         </Grid.RowDefinitions>
         <TextBlock Text="串口"/>
         <ComboBox x:Name="cmb_portname" Grid.Column="1" ItemsSource="{Binding CmbPortNameList}"/>
-        <TextBlock Text="波特率" Grid.Row="1"/>
-        <ComboBox x:Name="cmb_baud" Grid.Row="1" Grid.Column="1" ItemsSource="{Binding CmbBaudList}"></ComboBox>
-        <TextBlock Text="校验" Grid.Row="2"/>
-        <ComboBox x:Name="cmb_parity" Grid.Row="2" Grid.Column="1" ItemsSource="{Binding CmbParityList}"></ComboBox>
-        <TextBlock Text="数据位" Grid.Row="3"/>
-        <ComboBox x:Name="cmb_databBits" Grid.Row="3" Grid.Column="1" ItemsSource="{Binding CmbDataBitsList}"></ComboBox>
-        <TextBlock Text="停止位" Grid.Row="4"/>
-        <ComboBox x:Name="cmb_stopBits" Grid.Row="4" Grid.Column="1" ItemsSource="{Binding CmbStopBitsList}"></ComboBox>
+        <TextBlock Text="波特率" Grid.Column="2" />
+        <ComboBox x:Name="cmb_baud" Grid.Column="3" ItemsSource="{Binding CmbBaudList}"></ComboBox>
+        <TextBlock Text="校验" Grid.Column="4"/>
+        <ComboBox x:Name="cmb_parity" Grid.Column="5" ItemsSource="{Binding CmbParityList}"></ComboBox>
+        
+        <TextBlock Text="数据位" Grid.Row="1"/>
+        <ComboBox x:Name="cmb_databBits" Grid.Row="1" Grid.Column="1" ItemsSource="{Binding CmbDataBitsList}"></ComboBox>
+        <TextBlock Text="停止位" Grid.Row="1" Grid.Column="2"/>
+        <ComboBox x:Name="cmb_stopBits" Grid.Row="1" Grid.Column="3" ItemsSource="{Binding CmbStopBitsList}"></ComboBox>
+        <TextBlock Text="功能码" Grid.Row="1" Grid.Column="4"/>
+        <ComboBox x:Name="cmbm_modbusrtufun" Grid.Row="1" Grid.Column="5" ItemsSource="{Binding CmbModbusRtuFunList}"></ComboBox>
+        <DockPanel Grid.Row="2" Grid.ColumnSpan="6">
+            <TextBlock Text="slavedata"/>
+        </DockPanel>
     </Grid>
 </UserControl>
