@@ -32,6 +32,7 @@ namespace WpfAppOxyPlot
             container.RegisterType<IMainWindowViewModel, MainWindowViewModel>();
             container.RegisterType<IColumnChartViewModel, ColumnChartViewModel>();
             container.RegisterType<ILineChartViewModel, LineChartViewModel>();
+            container.RegisterType<ILineChartModbusViewModel, LineChartModbusViewModel>();
 
             _chartService = container.Resolve<IService>();
             var mainWindow = container.Resolve<MainWindow>();
@@ -39,6 +40,8 @@ namespace WpfAppOxyPlot
             Application.Current.MainWindow.Show();
 
             _chartService.OnStart();
+
+            _chartService.InitUserControlsComboBox();
         }
 
         protected override void OnExit(ExitEventArgs e)

@@ -64,6 +64,38 @@ namespace WpfAppOxyPlot.Services
             _countTimer.Start();
         }
 
+        public void InitUserControlsComboBox()
+        {
+            for (int i = 1; i <= 10; i++)
+            {
+                _chartRepository.AddCmbPortName($"COM{i}");
+            }
+
+            string[] bauds = {"300","600","1200","2400","4800","9600","14400","19200","38400","56000"};
+            foreach (var item in bauds)
+            {
+                _chartRepository.AddCmbBaud(item);
+            }
+
+            string[] parity = { "奇", "偶", "无"};
+            foreach (var item in parity)
+            {
+                _chartRepository.AddCmbParity(item);
+            }
+
+            string[] databits = { "7", "8"};
+            foreach (var item in databits)
+            {
+                _chartRepository.AddCmbDataBits(item);
+            }
+
+            string[] stopbits = { "1", "2" };
+            foreach (var item in stopbits)
+            {
+                _chartRepository.AddCmbStopBits(item);
+            }
+        }
+
         #endregion
     }
 }

@@ -1,0 +1,24 @@
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.Properties.Resources.resources
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.csproj.GenerateResource.Cache
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\ModbusRtu.exe.config
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\ModbusRtu.exe
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\ModbusRtu.pdb
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\NModbus4.dll
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\NModbus4.xml
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.Form1.resources
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.exe
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.pdb
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.csprojResolveAssemblyReference.cache
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\bin\Debug\ModbusRtu.exe.config
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\bin\Debug\ModbusRtu.exe
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\bin\Debug\ModbusRtu.pdb
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\bin\Debug\NModbus4.dll
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\bin\Debug\NModbus4.xml
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.csproj.AssemblyReference.cache
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.Form1.resources
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.Properties.Resources.resources
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.csproj.GenerateResource.cache
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.csproj.CoreCompileInputs.cache
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.csproj.CopyComplete
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.exe
+C:\Users\zzy\Downloads\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.pdb

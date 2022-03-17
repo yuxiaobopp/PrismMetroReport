@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\PrismMetroReport\WpfAppOxyPlot\WpfAppOxyPlot\App.xaml
-3-29419947
+41682647538
 
-20-1496007123
-129-1182881328
-MainWindow.xaml;Views\ColumnChartView.xaml;Views\LineChartView.xaml;
+26-2131524602
+130172110447
+MainWindow.xaml;Views\ColumnChartView.xaml;Views\LineChartModbusView.xaml;Views\LineChartView.xaml;
 
-True
+False
 

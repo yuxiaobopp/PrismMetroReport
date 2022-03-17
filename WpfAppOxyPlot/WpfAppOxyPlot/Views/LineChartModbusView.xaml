@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="WpfAppOxyPlot.Views.LineChartModbusView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfAppOxyPlot.Views"
+             mc:Ignorable="d" 
+             xmlns:viewModels="clr-namespace:WpfAppOxyPlot.ViewModels"
+             d:DesignHeight="400" d:DesignWidth="400">
+    <Grid d:DataContext="{d:DesignInstance Type=viewModels:DesignLineChartModbusViewModel, IsDesignTimeCreatable=True}">
+        <Grid.ColumnDefinitions>
+            <!--定义Grid的列，定义3列-->
+
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition />
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <!--定义Grid的行，定义3行-->
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <TextBlock Text="串口"/>
+        <ComboBox x:Name="cmb_portname" Grid.Column="1" ItemsSource="{Binding CmbPortNameList}"/>
+        <TextBlock Text="波特率" Grid.Row="1"/>
+        <ComboBox x:Name="cmb_baud" Grid.Row="1" Grid.Column="1" ItemsSource="{Binding CmbBaudList}"></ComboBox>
+        <TextBlock Text="校验" Grid.Row="2"/>
+        <ComboBox x:Name="cmb_parity" Grid.Row="2" Grid.Column="1" ItemsSource="{Binding CmbParityList}"></ComboBox>
+        <TextBlock Text="数据位" Grid.Row="3"/>
+        <ComboBox x:Name="cmb_databBits" Grid.Row="3" Grid.Column="1" ItemsSource="{Binding CmbDataBitsList}"></ComboBox>
+        <TextBlock Text="停止位" Grid.Row="4"/>
+        <ComboBox x:Name="cmb_stopBits" Grid.Row="4" Grid.Column="1" ItemsSource="{Binding CmbStopBitsList}"></ComboBox>
+    </Grid>
+</UserControl>

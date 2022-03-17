@@ -17,5 +17,10 @@ namespace WpfAppOxyPlot.Services
         /// Stop service, cleanup data.
         /// </summary>
         void OnStop();
+
+        /// <summary>
+        /// 初始化下拉框
+        /// </summary>
+        void InitUserControlsComboBox();
     }
 }

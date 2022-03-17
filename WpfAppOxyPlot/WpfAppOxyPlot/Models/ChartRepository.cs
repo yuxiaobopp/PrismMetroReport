@@ -25,6 +25,22 @@ namespace WpfAppOxyPlot.Models
 
         public IReadOnlyList<int> ColumnCountList => GetColumnCountList().ToList();
 
+
+        private readonly List<string> _cmbPortNameList = new List<string>(10);
+        private readonly List<string> _cmbBaudList = new List<string>(10);
+        private readonly List<string> _cmbParityList = new List<string>(10);
+        private readonly List<string> _cmbDataBitsList = new List<string>(10);
+        private readonly List<string> _cmbStopBitsList = new List<string>(10);
+        public IReadOnlyList<string> CmbPortNameList => _cmbPortNameList;
+        public IReadOnlyList<string> CmbBaudList => _cmbBaudList;
+        public IReadOnlyList<string> CmbParityList => _cmbParityList;
+        public IReadOnlyList<string> CmbDataBitsList => _cmbDataBitsList;
+        public IReadOnlyList<string> CmbStopBitsList => _cmbStopBitsList;
+
+        private const int LineRtuData = 100;
+        private readonly List<int> _lineRtuDataList = new List<int>(LineRtuData);
+        public IReadOnlyList<int> LineRtuDataList => _lineRtuDataList;
+
         public void AddLineCount(int newValue)
         {
             _lineCountList.Add(newValue);
@@ -32,6 +48,16 @@ namespace WpfAppOxyPlot.Models
                 _lineCountList.RemoveAt(0);
 
             OnPropertyChanged(nameof(LineCountList));
+        }
+
+        public void AddLineRtuData(int newValue)
+        {
+
+            _lineRtuDataList.Add(newValue);
+            if (_lineRtuDataList.Count > LineCount)
+                _lineRtuDataList.RemoveAt(0);
+
+            OnPropertyChanged(nameof(LineRtuDataList));
         }
 
         public void AddColumnCount(int index, int newValue)
@@ -54,6 +80,37 @@ namespace WpfAppOxyPlot.Models
                                 : 0;
             }
         }
+
+        public void AddCmbPortName(string value)
+        {
+            _cmbPortNameList.Add(value);
+            OnPropertyChanged(nameof(CmbPortNameList));
+        }
+
+        public void AddCmbBaud(string value)
+        {
+            _cmbBaudList.Add(value);
+            OnPropertyChanged(nameof(CmbBaudList));
+        }
+
+        public void AddCmbParity(string value)
+        {
+            _cmbParityList.Add(value);
+            OnPropertyChanged(nameof(CmbParityList));
+        }
+
+        public void AddCmbDataBits(string value)
+        {
+            _cmbDataBitsList.Add(value);
+            OnPropertyChanged(nameof(_cmbDataBitsList));
+        }
+
+        public void AddCmbStopBits(string value)
+        {
+            _cmbStopBitsList.Add(value);
+            OnPropertyChanged(nameof(CmbStopBitsList));
+        }
+
 
         #endregion
     }

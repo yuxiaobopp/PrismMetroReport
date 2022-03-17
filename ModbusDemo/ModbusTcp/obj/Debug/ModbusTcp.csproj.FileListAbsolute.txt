@@ -1,0 +1,34 @@
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.exe.config
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.exe
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.pdb
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\NModbus.dll
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\NModbus.xml
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.Form1.resources
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.Properties.Resources.resources
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.csproj.GenerateResource.Cache
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.exe
+c:\users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.pdb
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.exe.config
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.exe
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.pdb
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.exe
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.pdb
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\NModbus.dll
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\bin\Debug\NModbus.xml
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.Form1.resources
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.Properties.Resources.resources
+C:\Users\pan\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.csproj.GenerateResource.Cache
+C:\Users\pandefu\Documents\Visual Studio 2013\Projects\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.csprojResolveAssemblyReference.cache
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\bin\Debug\ModbusTcp.exe.config
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\bin\Debug\ModbusTcp.exe
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\bin\Debug\ModbusTcp.pdb
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\bin\Debug\NModbus.dll
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\bin\Debug\NModbus.xml
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\obj\Debug\ModbusTcp.csproj.AssemblyReference.cache
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\obj\Debug\ModbusRtu.Form1.resources
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\obj\Debug\ModbusRtu.Properties.Resources.resources
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\obj\Debug\ModbusTcp.csproj.GenerateResource.cache
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\obj\Debug\ModbusTcp.csproj.CoreCompileInputs.cache
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\obj\Debug\ModbusTcp.csproj.CopyComplete
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\obj\Debug\ModbusTcp.exe
+C:\Users\zzy\Downloads\ModbusDemo\ModbusTcp\obj\Debug\ModbusTcp.pdb

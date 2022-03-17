@@ -13,10 +13,11 @@
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="*"/>
+            <!--<ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>-->
         </Grid.ColumnDefinitions>
 
-        <ContentControl
+        <!--<ContentControl
             Grid.Column="0">
             <views:ColumnChartView
                 DataContext="{Binding ColumnChartViewModel}"/>
@@ -26,7 +27,11 @@
             Grid.Column="1">
             <views:LineChartView
                 DataContext="{Binding LineChartViewModel}"/>
+        </ContentControl>-->
+        <ContentControl
+            Grid.Column="0">
+            <views:LineChartModbusView
+                DataContext="{Binding LineChartModbusViewModel}"/>
         </ContentControl>
-
     </Grid>
 </Window>

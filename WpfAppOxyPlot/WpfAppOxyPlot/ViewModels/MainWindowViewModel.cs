@@ -17,6 +17,9 @@ namespace WpfAppOxyPlot.ViewModels
         [Dependency]
         public IColumnChartViewModel ColumnChartViewModel { get; set; }
 
+        [Dependency]
+        public ILineChartModbusViewModel LineChartModbusViewModel { get; set; }
+
         #endregion
     }
 }
